@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "name": "Kas po kojomis žaliuoja",
+        "cost": 2,
+        "images":"/assets/images/kas_po_kojomis_zaliuoja.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Gamtos kalendorius",
+        "cost": 3,
+        "images":"/assets/images/gamtos_kalendorius.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Lietuvos žaliasis rūbas",
+        "cost": 4,
+        "images":"/assets/images/Lt_zaliasis_rubas.jpg "  
+    }
+]
