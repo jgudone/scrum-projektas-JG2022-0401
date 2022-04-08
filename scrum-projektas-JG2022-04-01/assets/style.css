@@ -30,6 +30,11 @@
   display: block;
   margin: 20px auto;
 }
+
+.review img { 
+  width: 20%;
+}
+
 footer {
     background-color: black;
     color: white;
